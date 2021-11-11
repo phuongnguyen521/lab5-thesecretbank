@@ -5,4 +5,4 @@
 * TheSecretBank: my project
 
 
-### Give the best thanks to my mentor Nguyễn Xuân Phú and and my lecturer, Thân Văn Sử
+### Give the best thanks to my mentor Nguyễn Xuân Phú and my lecturer, Thân Văn Sử
